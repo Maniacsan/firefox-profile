@@ -1,6 +1,8 @@
 # firefox-profile
 Documentation on creating pre-configured Firefox profiles to skip Firefox’s onboarding process.
 
+![Firefox Profile Creation Gif](https://raw.githubusercontent.com/Maniacsan/firefox-profile/refs/heads/main/firefoxprofileshowcase.gif)
+
 ## Why?
 Firefox out of the box isn't the most privacy conscious and faces the issue of users having to remove and customize their settings to get their desired setup. Instead of going through a setup process, you can setup your usual profile settings and back it up to a general profile template, so whenever you want to make a new profile you can start with the defaults that you want.
 
